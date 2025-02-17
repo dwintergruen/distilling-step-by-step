@@ -2,6 +2,8 @@
 
 Code for paper [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)
 
+(For a summary see: https://medium.com/data-science-collective/how-to-distill-a-llm-step-by-step-58f06fcf4bfa)
+
 ## Environment Setup
 - Setup Conda environment:
 ```
